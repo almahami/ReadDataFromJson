@@ -41,4 +41,4 @@ Please check the result back into this repository on the branch solution. Once y
 
 ## Run Command 
 
-gradle run --args='data.json operations.json outputs.json'
+gradle run --args='data.json operations.json output.json'
