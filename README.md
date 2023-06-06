@@ -35,9 +35,6 @@ The following files are supplied to solve the problem:
 - output.json The results for the sample data provided.
 - JsonCalculator class as entry point
 
-## Notes on the delivery
-
-Please check the result back into this repository on the branch solution. Once you have uploaded your final solution, please give a short note to jobs@itdesign.de.
 
 ## Run Command 
 
